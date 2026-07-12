@@ -1,0 +1,14 @@
+{
+  "name": "aether-bot",
+  "version": "1.0.0",
+  "description": "Telegram Coin Screening Bot with GMGN",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.22.0",
+    "node-cron": "^3.0.0",
+    "dotenv": "^16.4.0"
+  }
+}
